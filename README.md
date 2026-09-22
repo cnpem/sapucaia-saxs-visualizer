@@ -176,7 +176,7 @@ The resulting averaged curve can be saved as a `.dat` file for further analysis.
 If you use SAPUCAIA SAXS Visualizer in your research, please cite:
 
 > João Paulo Castro Zerba; Julia Dias de Souza. *SAPUCAIA SAXS Visualizer*. Zenodo.
-> DOI: To be assigned upon publication.
+> DOI: https://doi.org/10.5281/zenodo.22897832
 
 ## License
 

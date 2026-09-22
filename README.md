@@ -4,6 +4,9 @@
 
 The software provides tools for loading, visualizing, comparing, and processing SAXS data, with the goal of supporting efficient data inspection during beamline operation and scientific experiments.
 
+> [!NOTE]
+> This project is under heavy development and new features are being added frequently.
+
 ## Features
 
 * Visualization of SAXS curves from `.dat` files
